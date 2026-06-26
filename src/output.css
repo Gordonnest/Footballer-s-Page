@@ -295,6 +295,9 @@
   .bg-yellow-400 {
     background-color: var(--color-yellow-400);
   }
+  .bg-\[url\(\.\/images\/bg\.jpg\)\] {
+    background-image: url(./images/bg.jpg);
+  }
   .bg-\[url\(\/images\/bg\.jpg\)\] {
     background-image: url(/images/bg.jpg);
   }
